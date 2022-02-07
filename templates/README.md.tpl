@@ -1,4 +1,4 @@
-Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+Guude ("Hello" in Hessen), I’m Timo, I love to take responsibility for my work and always try to embrace it where it comes by. I'm a software developer, software architect, DevOps engineer and product owner. This makes it easy for me to cover the entire software lifecycle, including requirements, deployment and maintenance.
 
 <img align="right" src="https://raw.githubusercontent.com/kreuzwerkerbot/kreuzwerkerbot/master/assets/xw.png" width="200">
 
@@ -10,7 +10,6 @@ Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/
 ## Languages and Tools
 
 <p>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-official.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
@@ -27,8 +26,5 @@ Hi, I’m @kreuzwerkerbot, the automation bot <img src="https://media.giphy.com/
 </p>
 
 ### 🔭 Latest releases I've contributed to
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{ else }}
+
 ... no contributions yet. But they are in the making
-{{- end}}
